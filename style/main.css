@@ -489,7 +489,7 @@ footer {
 	margin: 0 auto;
 	background-color: #eee;
 	background-image: url("../img/bg/bg-grey.jpg");
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-position: center;
 }
 
